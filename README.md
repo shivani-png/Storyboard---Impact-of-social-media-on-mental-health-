@@ -1,13 +1,66 @@
-# Storyboard---Impact-of-social-media-on-mental-health-
+# Impact of Social Media on Mental Health
 
-## Impact of social media on mental health 
-I have chosen the impact of social media on mental health for storyboard because I think it relates to so many people in daily life. I wanted to tell this story through scrollytelling because some aspects of social media and mental health require more explanation, and scrollytelling allows you to layer information without overwhelming the viewer. When people scroll through examples of social media behaviors and their impacts. I believe It will deepen their understanding and empathy. Research highlights a link between excessive social media use and mental health issues like depression, anxiety, loneliness, and sleep deprivation. Experts point out certain warning signs that social media might be affecting people negatively like spending so much time on social media that it takes away from other important areas of life, feeling a dependency or addiction to social media,regularly comparing yourself to others and constantly checking for new updates. 
-It's also important not to overlook the impact of sleep loss. Poor sleep can weaken social-emotional skills and cognitive abilities, making it harder to make sound decisions as fatigue builds night after night. In the first iteration I have
-sticky notes stating the themes,characters, data, visual methods, formats. External validation is one of the main themes that is not spoken much. Social media promises connection, enabling distant friends and family to share in milestones like births, weddings, and graduations. It creates spaces for learning and provides opportunities for people in scattered communities to connect and organize around shared interests.Yet, that constant connection and external validation can activate the brain’s reward system in ways similar to gambling, often leading to feelings of withdrawal or distress when attempting to take a break, as noted in a study from BMC Psychiatry. The unpredictable rewards of likes, comments, or uplifting stories encourage the impulse to check in or post repeatedly.Platforms are also designed to sustain engagement, with features like endless feeds, push notifications, and algorithms crafted to predict what content will keep you captivated and scrolling. 
-If social media once helped with stress or loneliness, it’s understandable to turn back to it when feeling down. This habit can quickly take root, and each time a click provides relief, the likelihood of craving that same comfort again grows, building with each passing night. 
-In iteration 2 I have presented a line graph displaying the number of people using various social media platforms from 2004 to 2018. In general, young people are more likely to use social media than older people. But some platforms are much more popular among younger people. There is a doughnut chart showing the
-frequency of teenagers checking their social media.Social media use may have negative effects on some teens. It might Expose some teens to online predators, who might try to exploit or extort them.Distract them from homework, exercise and family activities. There is a linear chart depicting social media use by age group over time along with the scatter plot released by International Journal of Social Psychiatry on facebook addiction and loneliness in the post-graduate students of a university in southern India. Time spent online replaces time spent offline (which is time spent with friends), and thus the quality of friendships is reduced leading to loneliness. 
-In Iteration 3, I present a storyboard telling the story of an imaginary teenage girl. She starts by spending little time on social media and posting her pictures. Initially, she gets very excited about the likes and comments on her posts. Over time, however, she becomes addicted to these reactions, which gradually become very important to her. She feels sad when there is a mixed reaction to her posts. 
-In Iteration 3, I show a symbolic representation of her gradually being "blinded" by the likes and comments. In the first picture, her eyes are half-closed, and in the second picture, they are fully closed. Eventually, she starts receiving negative comments about her body size, which leads to feelings of depression. This is shown in the third picture. In the fourth picture, we see her trapped in this cycle. In
-the final picture, we see that although she is depressed in real life, she continues to post happy pictures on social media, hoping for positive comments. 
-I believe this story illustrates the growing need for external validation due to increased social media usage and the way some people appear happy on social media while, in reality, the situation is quite different. I think this story will resonate with many teenagers, and reducing social media usage could have a positive impact on their mental health.
+## Introduction
+The project explores how social media impacts mental health, a topic that resonates with many in their daily lives. Through **scrollytelling**, the narrative delves into the layered effects of social media, such as increased anxiety, depression, loneliness, and sleep deprivation. The project uses data, research, and visual storytelling to shed light on these issues.
+
+---
+
+## Themes and Findings
+
+### Key Themes
+- **External Validation**: Social media triggers the brain's reward system, leading to dependency similar to gambling.
+- **Sleep Deprivation**: Poor sleep caused by excessive screen time weakens cognitive and emotional abilities.
+- **Loneliness**: Time spent online replaces meaningful offline interactions, reducing the quality of friendships.
+
+### Research Highlights
+- Social media encourages behaviors such as comparing oneself to others, compulsive checking, and a dependency on likes and comments.
+- Algorithms and features like endless feeds sustain user engagement, creating a cycle of reliance.
+
+---
+
+## Visualizations and Iterations
+
+### Iteration 1: Sticky Note Planning
+Brainstormed themes, characters, and visual methods. **External validation** emerged as a key focus.
+
+---
+
+### Iteration 2: Data Visualization
+1. **Line Graph**: Growth in social media users from 2004 to 2018.
+2. **Doughnut Chart**: Frequency of teenagers checking social media.
+3. **Scatter Plot**: Correlation between Facebook addiction and loneliness in students.
+
+---
+
+### Iteration 3: Storyboard
+An **imaginary teenage girl**'s journey shows how social media impacts mental health:
+- Starts with excitement over likes and comments.
+- Gradual addiction to validation.
+- Negative comments lead to depression.
+- Symbolic representation of being "blinded" by external validation.
+
+---
+
+## Key Visuals
+
+![Social Media Usage Growth](https://thetosacompass.com/wp-content/uploads/2021/10/IMG_8599-900x890.jpg)
+*Line graph depicting the rise in social media users over time.*
+
+![Social Media and Mental Health](https://red.msudenver.edu/wp-content/uploads/2022/03/Social-media-mental-heatlh_RED.jpg)
+*A scatter plot linking social media addiction to loneliness.*
+
+![Doughnut Chart](https://emergeketamine.com/wp-content/uploads/2022/12/EK-How-Social-Media-Impacts-Mental-Health--scaled.jpg)
+*Teenager social media usage frequency visualized in a doughnut chart.*
+
+---
+
+## Conclusion
+This project emphasizes the growing need to address social media's negative effects on mental health, especially for teenagers. By understanding these impacts, individuals and communities can work toward healthier usage patterns and promote mental well-being.
+
+---
+
+## Resources
+- [Forbes: Social Media and Mental Health](https://www.forbes.com/health/mind/social-media-and-mental-health/)
+- [PubMed Central: Social Media Impact](https://pmc.ncbi.nlm.nih.gov/articles/PMC9817115/)
+- [StatCan: Social Media Use by Age](https://www150.statcan.gc.ca/n1/pub/82-003-x/2023002/article/00002-eng.htm)
+- [Pew Research: Age Group Trends](https://www.pewresearch.org/chart/social-media-use-by-age-group-over-time/)
